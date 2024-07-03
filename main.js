@@ -14,3 +14,6 @@ const multi = function (n1,n2){
 const multi2 = function (n1,n2){
     return n1*n2
 }
+const test = ()=>{
+return "hello"
+}
